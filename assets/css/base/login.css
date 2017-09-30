@@ -1,0 +1,31 @@
+.box{
+  box-shadow: 5px 3px 8px 0 rgba(0, 0, 0, 0.49);
+  width: 500px;
+  height: 500px;
+}
+
+.log {
+  margin-top: 100px;
+}
+
+input::placeholder {
+  text-align: center;
+  color: #2fa4e7 !important;
+  font-weight: 400;
+}
+
+label {
+  text-align: center;
+}
+
+input[type=text], input[type=password] {
+  background: #fff;
+  margin-bottom: 10px;
+  border: solid #ccc;
+  height: 45px;
+}
+
+.fa-user-o {
+  font-size: 80px;
+  color: #2fa4e7;
+}

@@ -1,0 +1,13 @@
+ #btn{
+  width: 100px;
+  margin-left:80px;
+}
+
+.fa-user-circle {
+  color: #55bc21;
+  float: left;
+}
+
+.fa-search {
+  font-size: 25px;
+}
